@@ -1,0 +1,1 @@
+It took me roughly five hours over the course of two days to complete this problem. It took me. Along time to figure out the design and really understand the observable design. There may be shortcomings in my observable.py file because I went off of the start code given in the lecture slides and also from examples websites that were also provided by prof Varik. 
